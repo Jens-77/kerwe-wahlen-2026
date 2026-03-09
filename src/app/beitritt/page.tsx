@@ -8,13 +8,13 @@ export default function Beitritt() {
         <div className="bg-white rounded-xl shadow-lg p-8 border hover:border-red-500 transition-all cursor-pointer group">
             <h3 className="text-xl font-bold text-stone-800 mb-4">Beitrittserklärung PDF</h3>
             <p className="text-stone-500 mb-6">Fürs klassische Ausdrucken und Unterschreiben per Hand.</p>
-            <a href="https://kerwe-wahlen.de/wp-content/uploads/2019/12/Beitrittserkla%CC%88rung.pdf" target="_blank" rel="noopener noreferrer" className="inline-block bg-stone-900 text-white py-3 px-6 rounded-lg font-medium group-hover:bg-red-600 transition-colors">PDF herunterladen</a>
+            <a href="https://kerwe-wahlen.de/wp-content/uploads/2018/06/Beitrittserkl%C3%A4rungKerweverein.pdf" target="_blank" rel="noopener noreferrer" className="inline-block bg-stone-900 text-white py-3 px-6 rounded-lg font-medium group-hover:bg-red-600 transition-colors">PDF herunterladen</a>
         </div>
         
         <div className="bg-white rounded-xl shadow-lg p-8 border hover:border-orange-500 transition-all cursor-pointer group">
             <h3 className="text-xl font-bold text-stone-800 mb-4">Beitrittserklärung Word</h3>
             <p className="text-stone-500 mb-6">Zum digitalen Ausfüllen bequem am Rechner.</p>
-            <a href="https://kerwe-wahlen.de/wp-content/uploads/2019/12/Beitrittserkla%CC%88rung.docx" target="_blank" rel="noopener noreferrer" className="inline-block bg-stone-900 text-white py-3 px-6 rounded-lg font-medium group-hover:bg-orange-500 transition-colors">Word-Datei laden</a>
+            <a href="https://kerwe-wahlen.de/wp-content/uploads/2018/06/Beitrittserkl%C3%A4rungKerweverein.doc" target="_blank" rel="noopener noreferrer" className="inline-block bg-stone-900 text-white py-3 px-6 rounded-lg font-medium group-hover:bg-orange-500 transition-colors">Word-Datei laden</a>
         </div>
       </div>
     </div>
