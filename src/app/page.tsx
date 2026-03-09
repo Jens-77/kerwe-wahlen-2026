@@ -11,10 +11,10 @@ export default function Home() {
           <img 
             src="https://image.pollinations.ai/prompt/A%20festive%20German%20village%20fair%20at%20night%20with%20a%20large%20illuminated%20party%20tent,%20warm%20glowing%20lights,%20crowd%20having%20fun,%20photorealistic,%20high%20quality?width=1920&height=1080&nologo=true" 
             alt="Festival Background" 
-            className="w-full h-full object-cover opacity-40 blur-[2px]"
+            className="w-full h-full object-cover opacity-70 blur-none"
           />
         </div>
-        <div className="absolute inset-0 z-10 bg-gradient-to-br from-red-600/90 via-orange-500/80 to-yellow-500/90 mix-blend-multiply"></div>
+        <div className="absolute inset-0 z-10 bg-gradient-to-t from-red-600/80 via-transparent to-transparent"></div>
         
         <div className="relative z-20 text-center px-4 max-w-4xl mx-auto transform transition-all duration-700 hover:scale-105">
           <div className="inline-block mb-4 px-6 py-2 rounded-full border-2 border-white/30 backdrop-blur-sm bg-white/10 text-white font-semibold tracking-wider text-sm uppercase">
