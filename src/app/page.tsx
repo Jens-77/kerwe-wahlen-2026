@@ -9,7 +9,7 @@ export default function Home() {
         <div className="absolute inset-0 z-0">
           {/* Fallback image from Unsplash for Party/Festival vibe */}
           <img 
-            src="https://image.pollinations.ai/prompt/A%20festive%20German%20village%20fair%20at%20night%20with%20a%20large%20illuminated%20party%20tent,%20warm%20glowing%20lights,%20crowd%20having%20fun,%20photorealistic,%20high%20quality?width=1920&height=1080&nologo=true" 
+            src="/hero.jpg" 
             alt="Festival Background" 
             className="w-full h-full object-cover opacity-70 blur-none"
           />
