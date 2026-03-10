@@ -1,7 +1,7 @@
 export default function Beitritt() {
   return (
     <div className="max-w-4xl mx-auto px-4 py-16">
-      <h1 className="text-4xl font-extrabold text-stone-900 mb-4">Mitglied Werden</h1>
+      <h1 className="text-4xl font-extrabold text-stone-900 mb-4">Mitglied werden</h1>
       <p className="text-lg text-stone-600 mb-8">Wir freuen uns immer über neue Gesichter im Kerweverein. Werde Teil der Community!</p>
       
       <div className="grid md:grid-cols-2 gap-8">
