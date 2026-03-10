@@ -1,6 +1,6 @@
 export default function Datenschutz() {
   return (
-    <div className="max-w-4xl mx-auto px-4 py-16 prose prose-stone lg:prose-lg max-w-none">
+    <div className="max-w-4xl mx-auto px-4 py-16 prose prose-stone lg:prose-lg">
       <h1 className="text-4xl font-extrabold text-stone-900 mb-8">Datenschutzerklärung</h1>
       
       <h3 className="font-bold text-xl mb-4">Grundlegendes</h3>
