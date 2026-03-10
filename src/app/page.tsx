@@ -44,7 +44,7 @@ export default function Home() {
             <div className="h-2 w-full bg-gradient-to-r from-red-600 to-red-400"></div>
             <div className="p-8">
               <h2 className="text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-red-600 to-red-400 mb-6 flex items-center gap-3">
-                <span className="text-red-500 text-4xl group-hover:rotate-12 transition-transform">🍻</span> Freitag, 05.09.
+                <span className="text-red-500 text-4xl group-hover:rotate-12 transition-transform">🍻</span> Freitag, 04.09.
               </h2>
               <div className="space-y-6">
                 <div className="relative pl-6 border-l-2 border-red-100 group-hover:border-red-300 transition-colors">
@@ -66,7 +66,7 @@ export default function Home() {
             <div className="h-2 w-full bg-gradient-to-r from-orange-500 to-amber-400"></div>
             <div className="p-8">
               <h2 className="text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-amber-400 mb-6 flex items-center gap-3">
-                <span className="text-orange-500 text-4xl group-hover:rotate-12 transition-transform">🎪</span> Samstag, 06.09.
+                <span className="text-orange-500 text-4xl group-hover:rotate-12 transition-transform">🎪</span> Samstag, 05.09.
               </h2>
               <div className="space-y-6">
                 <div className="relative pl-6 border-l-2 border-orange-100 group-hover:border-orange-300 transition-colors">
@@ -93,7 +93,7 @@ export default function Home() {
             <div className="h-2 w-full bg-gradient-to-r from-yellow-400 to-yellow-300"></div>
             <div className="p-8">
               <h2 className="text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-yellow-500 to-yellow-400 mb-6 flex items-center gap-3">
-                <span className="text-yellow-500 text-4xl group-hover:rotate-12 transition-transform">🎷</span> Sonntag, 07.09.
+                <span className="text-yellow-500 text-4xl group-hover:rotate-12 transition-transform">🎷</span> Sonntag, 06.09.
               </h2>
               <div className="space-y-6">
                 <div className="relative pl-6 border-l-2 border-yellow-100 group-hover:border-yellow-300 transition-colors">
@@ -120,7 +120,7 @@ export default function Home() {
             <div className="h-2 w-full bg-gradient-to-r from-orange-600 to-red-600"></div>
             <div className="p-8">
               <h2 className="text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-orange-600 to-red-600 mb-6 flex items-center gap-3">
-                <span className="text-red-500 text-4xl group-hover:rotate-12 transition-transform">🦆</span> Montag, 08.09.
+                <span className="text-red-500 text-4xl group-hover:rotate-12 transition-transform">🦆</span> Montag, 07.09.
               </h2>
               <div className="space-y-6">
                 <div className="relative pl-6 border-l-2 border-orange-100 group-hover:border-orange-300 transition-colors">
